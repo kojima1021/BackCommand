@@ -1,0 +1,13 @@
+name: BackCommand
+version: 1.0.0-Dev
+website: http://bukkit-plugin.net
+main: net.bukkit_plugin.kojima1021.bukkit.backcommand.Main
+author: kojima1021
+database: false
+commands:
+   back:
+      description: コマンドで死んだ場所に戻る。
+      usage: /back
+   bcd:
+      description: PluginDeveloper
+      usage: /bcd
